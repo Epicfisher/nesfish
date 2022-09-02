@@ -134,7 +134,7 @@
             this.romBox.Name = "romBox";
             this.romBox.Size = new System.Drawing.Size(528, 20);
             this.romBox.TabIndex = 6;
-            this.romBox.Text = "nestest2";
+            this.romBox.Text = "nestest";
             // 
             // pcChecker
             // 
